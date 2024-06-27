@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0,tvg-id="1" tvg-name="Minions" tvg-logo="https://cinembrollos.com/wp-content/uploads/2015/06/minions_ver3_xlg.jpg" group-title="CINE",Los Minions 1 |1080P|
+#EXTINF:-1 tvg-id="1" tvg-name="Los Minions" tvg-logo="https://cinembrollos.com/wp-content/uploads/2015/06/minions_ver3_xlg.jpg", Los Minions
 https://stream.adilo.com:443/adilo-encoding/ANQYL7n8WcXxOG1v/1e7PbueP/hls/media-3/stream.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="Toy Story", Toy Story
+#EXTINF:-1 tvg-id="2" tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg" tvg-name="Toy Story", Toy Story
 http://tu-servidor-iptv.com/peliculas/toy_story.mp4
