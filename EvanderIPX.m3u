@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="Los Minions" tvg-logo="https://cinembrollos.com/wp-content/uploads/2015/06/minions_ver3_xlg.jpg", Los Minions
+#EXTINF:-1 tvg-id="1" tvg-name="Los Minions (2015)" tvg-logo="https://cinembrollos.com/wp-content/uploads/2015/06/minions_ver3_xlg.jpg", Los Minions
 https://stream.adilo.com:443/adilo-encoding/ANQYL7n8WcXxOG1v/1e7PbueP/hls/media-3/stream.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg" tvg-name="Toy Story", Toy Story
